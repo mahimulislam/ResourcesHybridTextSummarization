@@ -1,0 +1,257 @@
+Summary 1:
+Rouge 1 Doc 3 F score
+0.6973684161989266
+Rouge 1 Doc 3 P score
+0.5955056179775281
+Rouge 1 Doc 3 R score
+0.8412698412698413
+Rouge 2 Doc 3 F score
+0.6035502910486328
+Rouge 2 Doc 3 P score
+0.504950495049505
+Rouge 2 Doc 3 R score
+0.75
+Rouge 1 Doc 4 F score
+0.42201834393064563
+Rouge 1 Doc 4 P score
+0.3382352941176471
+Rouge 1 Doc 4 R score
+0.5609756097560976
+Rouge 2 Doc 4 F score
+0.344827581587396
+Rouge 2 Doc 4 P score
+0.2702702702702703
+Rouge 2 Doc 4 R score
+0.47619047619047616
+Rouge 1 Doc 9 F score
+0.5234899281942255
+Rouge 1 Doc 9 P score
+0.41935483870967744
+Rouge 1 Doc 9 R score
+0.6964285714285714
+Rouge 2 Doc 9 F score
+0.45121950743605
+Rouge 2 Doc 9 P score
+0.37
+Rouge 2 Doc 9 R score
+0.578125
+Rouge 1 Doc 16 F score
+0.6870228958125983
+Rouge 1 Doc 16 P score
+0.625
+Rouge 1 Doc 16 R score
+0.7627118644067796
+Rouge 2 Doc 16 F score
+0.6582278431661595
+Rouge 2 Doc 16 P score
+0.5909090909090909
+Rouge 2 Doc 16 R score
+0.7428571428571429
+Rouge 1 Doc 18 F score
+0.6737967865995597
+Rouge 1 Doc 18 P score
+0.5727272727272728
+Rouge 1 Doc 18 R score
+0.8181818181818182
+Rouge 2 Doc 18 F score
+0.6238532061775104
+Rouge 2 Doc 18 P score
+0.5271317829457365
+Rouge 2 Doc 18 R score
+0.7640449438202247
+Rouge 1 Doc 44 F score
+0.672268902591625
+Rouge 1 Doc 44 P score
+0.625
+Rouge 1 Doc 44 R score
+0.7272727272727273
+Rouge 2 Doc 44 F score
+0.61870503102945
+Rouge 2 Doc 44 P score
+0.5584415584415584
+Rouge 2 Doc 44 R score
+0.6935483870967742
+Rouge 1 Average F Score
+0.6126608788879301
+Rouge 1 Average P Score
+0.5293038372553542
+Rouge 1 Average R Score
+0.7344734053859726
+Rouge 2 Average F Score
+0.5500639100741996
+Rouge 2 Average P Score
+0.4702838662693602
+Rouge 2 Average R Score
+0.6674609916607697
+Summary2:
+Rouge 1 Doc 3 F score
+0.6838709628520291
+Rouge 1 Doc 3 P score
+0.5955056179775281
+Rouge 1 Doc 3 R score
+0.803030303030303
+Rouge 2 Doc 3 F score
+0.5895953708630426
+Rouge 2 Doc 3 P score
+0.504950495049505
+Rouge 2 Doc 3 R score
+0.7083333333333334
+Rouge 1 Doc 4 F score
+0.607142852372449
+Rouge 1 Doc 4 P score
+0.5
+Rouge 1 Doc 4 R score
+0.7727272727272727
+Rouge 2 Doc 4 F score
+0.5084745715943695
+Rouge 2 Doc 4 P score
+0.40540540540540543
+Rouge 2 Doc 4 R score
+0.6818181818181818
+Rouge 1 Doc 9 F score
+0.5696202483215832
+Rouge 1 Doc 9 P score
+0.4838709677419355
+Rouge 1 Doc 9 R score
+0.6923076923076923
+Rouge 2 Doc 9 F score
+0.4883720881557599
+Rouge 2 Doc 9 P score
+0.42
+Rouge 2 Doc 9 R score
+0.5833333333333334
+Rouge 1 Doc 16 F score
+0.4603174554195012
+Rouge 1 Doc 16 P score
+0.4027777777777778
+Rouge 1 Doc 16 R score
+0.5370370370370371
+Rouge 2 Doc 16 F score
+0.3537414917932344
+Rouge 2 Doc 16 P score
+0.29545454545454547
+Rouge 2 Doc 16 R score
+0.4406779661016949
+Rouge 1 Doc 18 F score
+0.7303370739300595
+Rouge 1 Doc 18 P score
+0.5909090909090909
+Rouge 1 Doc 18 R score
+0.9558823529411765
+Rouge 2 Doc 18 F score
+0.6990291215321897
+Rouge 2 Doc 18 P score
+0.5581395348837209
+Rouge 2 Doc 18 R score
+0.935064935064935
+Rouge 1 Doc 44 F score
+0.6785714236734695
+Rouge 1 Doc 44 P score
+0.59375
+Rouge 1 Doc 44 R score
+0.7916666666666666
+Rouge 2 Doc 44 F score
+0.606060601199495
+Rouge 2 Doc 44 P score
+0.5194805194805194
+Rouge 2 Doc 44 R score
+0.7272727272727273
+Rouge 1 Average F Score
+0.6216433360948486
+Rouge 1 Average P Score
+0.5278022424010553
+Rouge 1 Average R Score
+0.7587752207850248
+Rouge 2 Average F Score
+0.5408788741896818
+Rouge 2 Average P Score
+0.45057175004561606
+Rouge 2 Average R Score
+0.6794167461540344
+
+Summary 3:
+
+Rouge 1 Doc 3 F score
+0.7295597434990706
+Rouge 1 Doc 3 P score
+0.651685393258427
+Rouge 1 Doc 3 R score
+0.8285714285714286
+Rouge 2 Doc 3 F score
+0.628571423690449
+Rouge 2 Doc 3 P score
+0.5445544554455446
+Rouge 2 Doc 3 R score
+0.7432432432432432
+Rouge 1 Doc 4 F score
+0.3962264104948381
+Rouge 1 Doc 4 P score
+0.3088235294117647
+Rouge 1 Doc 4 R score
+0.5526315789473685
+Rouge 2 Doc 4 F score
+0.3243243198798799
+Rouge 2 Doc 4 P score
+0.24324324324324326
+Rouge 2 Doc 4 R score
+0.4864864864864865
+Rouge 1 Doc 9 F score
+0.5975609706997324
+Rouge 1 Doc 9 P score
+0.5268817204301075
+Rouge 1 Doc 9 R score
+0.6901408450704225
+Rouge 2 Doc 9 F score
+0.5474860285883713
+Rouge 2 Doc 9 P score
+0.49
+Rouge 2 Doc 9 R score
+0.620253164556962
+Rouge 1 Doc 16 F score
+0.4827586159809751
+Rouge 1 Doc 16 P score
+0.3888888888888889
+Rouge 1 Doc 16 R score
+0.6363636363636364
+Rouge 2 Doc 16 F score
+0.4142857096163265
+Rouge 2 Doc 16 P score
+0.32954545454545453
+Rouge 2 Doc 16 R score
+0.5576923076923077
+Rouge 1 Doc 18 F score
+0.5238095192885488
+Rouge 1 Doc 18 P score
+0.4
+Rouge 1 Doc 18 R score
+0.7586206896551724
+Rouge 2 Doc 18 F score
+0.4329896862658094
+Rouge 2 Doc 18 P score
+0.32558139534883723
+Rouge 2 Doc 18 R score
+0.6461538461538462
+Rouge 1 Doc 44 F score
+0.6238532061610976
+Rouge 1 Doc 44 P score
+0.53125
+Rouge 1 Doc 44 R score
+0.7555555555555555
+Rouge 2 Doc 44 F score
+0.5624999952062989
+Rouge 2 Doc 44 P score
+0.4675324675324675
+Rouge 2 Doc 44 R score
+0.7058823529411765
+Rouge 1 Average F Score
+0.5589614110207104
+Rouge 1 Average P Score
+0.46792158866486466
+Rouge 1 Average R Score
+0.7036472890272639
+Rouge 2 Average F Score
+0.48502619387452256
+Rouge 2 Average P Score
+0.4000761693525912
+Rouge 2 Average R Score
+0.6266185668456704

@@ -1,0 +1,87 @@
+Final Overall:
+
+Total Docs Used for testing:260
+
+Rouge 1 Average F Score
+0.6842
+Rouge 1 Average P Score
+0.6501
+Rouge 1 Average R Score
+0.7387
+Rouge 2 Average F Score
+0.6227
+Rouge 2 Average P Score
+0.5688
+Rouge 2 Average R Score
+0.6529
+
+
+Accident: 
+
+Total Docs Used for testing:76
+Rouge 1 Average F Score
+0.687397351521412
+Rouge 1 Average P Score
+0.6740287598817147
+Rouge 1 Average R Score
+0.7134783088350699
+Rouge 2 Average F Score
+0.6118254770298449
+Rouge 2 Average P Score
+0.5977248014575673
+Rouge 2 Average R Score
+0.6387999415526106
+
+
+Economics: 
+
+Total Docs Used for testing:88
+Rouge 1 Average F Score
+0.6589667620867092
+Rouge 1 Average P Score
+0.6114637003650428
+Rouge 1 Average R Score
+0.7371463906758254
+Rouge 2 Average F Score
+0.573131170227091
+Rouge 2 Average P Score
+0.5289324897965706
+Rouge 2 Average R Score
+0.6460631232249063
+
+Entertainment: 
+
+Total Docs Used for testing:44
+
+Rouge 1 Average F Score
+0.6729433007581607
+Rouge 1 Average P Score
+0.6346010980350782
+Rouge 1 Average R Score
+0.7300316068640388
+Rouge 2 Average F Score
+0.5837243034300794
+Rouge 2 Average P Score
+0.5492054163078804
+Rouge 2 Average R Score
+0.6387355968937412
+
+Politics: 
+
+Total Docs Used for testing:52
+
+Rouge 1 Average F Score
+0.7318126620319257
+Rouge 1 Average P Score
+0.6936746625684975
+Rouge 1 Average R Score
+0.7854430879048298
+Rouge 2 Average F Score
+0.6450318385230496
+Rouge 2 Average P Score
+0.6105359101144009
+Rouge 2 Average R Score
+0.6972151875871047
+
+
+

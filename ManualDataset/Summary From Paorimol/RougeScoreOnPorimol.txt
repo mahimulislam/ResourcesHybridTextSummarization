@@ -1,0 +1,105 @@
+284 docs from each category from Prothom Alo dataset & Kaler Kantho Dataset.
+Total
+Rouge 1 Average F Score
+0.4661
+Rouge 1 Average P Score
+0.6440
+Rouge 1 Average R Score
+0.4216
+Rouge 2 Average F Score
+0.4019
+Rouge 2 Average P Score
+0.5670
+Rouge 2 Average R Score
+0.3481
+
+
+200 docs from each category from Prothom Alo dataset.
+Total
+Rouge 1 Average F Score
+0.4652
+Rouge 1 Average P Score
+0.6220
+Rouge 1 Average R Score
+0.4019
+Rouge 2 Average F Score
+0.3769
+Rouge 2 Average P Score
+0.5249
+Rouge 2 Average R Score
+0.3253
+
+
+84 Docs from each category from Kaler kantho dataset.
+
+Total
+Rouge 1 Average F Score
+0.5405
+Rouge 1 Average P Score
+0.6963
+Rouge 1 Average R Score
+0.4684
+Rouge 2 Average F Score
+0.4614
+Rouge 2 Average P Score
+0.5986
+Rouge 2 Average R Score
+0.4025
+
+Breakdown of KalerKantho:
+Accident:
+Rouge 1 Average F Score
+0.6137133586989686
+Rouge 1 Average P Score
+0.7089995095677398
+Rouge 1 Average R Score
+0.573642973774466
+Rouge 2 Average F Score
+0.5571854082958545
+Rouge 2 Average P Score
+0.6407610620592638
+Rouge 2 Average R Score
+0.5281775931364187
+
+Economics:
+Rouge 1 Average F Score
+0.5645979168894164
+Rouge 1 Average P Score
+0.7353092544790011
+Rouge 1 Average R Score
+0.4654305704063707
+Rouge 2 Average F Score
+0.4797669486687673
+Rouge 2 Average P Score
+0.6412439485302113
+Rouge 2 Average R Score
+0.3925398505519291
+
+Entertainment:
+
+Rouge 1 Average F Score
+0.35447746662885476
+Rouge 1 Average P Score
+0.5861130855966392
+Rouge 1 Average R Score
+0.26368690104964243
+Rouge 2 Average F Score
+0.2508187418910139
+Rouge 2 Average P Score
+0.4335675736346737
+Rouge 2 Average R Score
+0.1839964720321585
+
+Politics
+Rouge 1 Average F Score
+0.6292555849495666
+Rouge 1 Average P Score
+0.754588250855524
+Rouge 1 Average R Score
+0.5710038216359099
+Rouge 2 Average F Score
+0.5578101473292152
+Rouge 2 Average P Score
+0.678838814443908
+Rouge 2 Average R Score
+0.5054498693771026
